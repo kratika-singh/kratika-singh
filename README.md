@@ -1,6 +1,6 @@
 # Hi there, I'm Kratika Singh! 👋
 
-🌱  I’m currently exploring Web Development and sharpening my C++ skills.
+🌱  I’m currently exploring Web Development and sharpening my Java skills.
 
 💼 Checkout my [Portfolio]() for my latest projects.
 
