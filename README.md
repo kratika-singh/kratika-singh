@@ -8,7 +8,7 @@
 
 📧  You can contact me at kratika3770@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=kratikasingh&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=kratika-singh&color=blue)
 
 
 ---
@@ -36,10 +36,10 @@
 
 ### GitHub Stats 📊
 
-![Kratika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kratikasingh&show_icons=true&theme=radical)
+![Kratika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kratika-singh&show_icons=true&theme=radical)
 ---
 
 ### GitHub Streak 🔥
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kratikasingh&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kratika-singh&theme=radical)
 
