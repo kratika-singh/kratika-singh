@@ -2,8 +2,6 @@
 
 🌱  I’m currently exploring Web Development and sharpening my Java skills.
 
-💼 Checkout my [Portfolio]() for my latest projects.
-
 💬 Feel free to reach out to me about anything! I'm always eager to assist.
 
 📧  You can contact me at kratika3770@gmail.com
