@@ -4,6 +4,8 @@
 
 💬 Feel free to reach out to me about anything! I'm always eager to assist.
 
+💼 Checkout my [Portfolio](https://kratika-singh.github.io/portfolio/) for my latest projects.
+
 📧  You can contact me at kratika3770@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kratika-singh&color=blue)
