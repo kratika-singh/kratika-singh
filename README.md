@@ -4,6 +4,7 @@
 
 💬 Feel free to reach out to me about anything! I'm always eager to assist.
 
+🌐 Check out my portfolio: [My Portfolio](https://kratika-singh.github.io/portfolio/)
 
 📧  You can contact me at kratika3770@gmail.com
 
